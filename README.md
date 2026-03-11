@@ -12,9 +12,9 @@
 - **Инфраструктура и инструменты:** Git, Vite, ESLint, Figma.
 - **Методологии:** Agile, SOLID, DRY, KISS, OOP.
 
-## Актуальные пет-проекты
+## Последние пет-проекты
 - **Noties** – Сервис для заметок с синхронизацией в реальном времени.
-  - *Стек:* React Router v7 Framework, Firebase (Firestore/Auth), Tailwind.
+  - *Стек:* React Router v7 Framework, Firebase (Firestore, Auth), Tailwind, Headless UI.
   - *Особенности:* Реализована сложная синхронизация данных и авторизация пользователей.
 - **Krestiki-Noliki** – Реализация известной игры по новым правилам.
   - *Стек:* React Router v7 Declarative, CSS modules.
